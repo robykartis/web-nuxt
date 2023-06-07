@@ -1,6 +1,8 @@
 <template>
     <div class="DefaultLayout">
-        <p>Default Layout</p>
+        <Header />
         <slot />
     </div>
 </template>
+<script setup>
+</script>
